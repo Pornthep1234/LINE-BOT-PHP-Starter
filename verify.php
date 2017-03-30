@@ -1,5 +1,9 @@
 <?php
+$proxy = 'http://fixie:r6pUSSzIxPNJelp@velodrome.usefixie.com:80';
+$proxyauth = 'Pornthep1234:jack1234';
+
 $access_token = 'xNEdvBrjVFu4Zhr1HnXWb6/1cyEhsTmdVnvoqwTcBMz+tUYbPONUDJvxumT4qV8ijbQNnQ5GnDRZCG5Taq4yhsK9bVUtBDGi9VlEzAArOLBRdvvO17dZFp+Gk0THclEFsXtH4oO4narLMsmu/uTMHgdB04t89/1O/w1cDnyilFU=';
+
 
 $url = 'https://api.line.me/v1/oauth/verify';
 
